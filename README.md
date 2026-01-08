@@ -2,6 +2,8 @@
 
 A client-side recipe discovery application built with React, TypeScript, and Vite. This app demonstrates advanced React concepts including custom hooks, Context API for global state management, React Router for navigation, and integration with TheMealDB API.
 
+![Recipe Cookbook App Screenshot](./screenshots/app-screenshot.png)
+
 ## Features
 
 ### Core Functionality
